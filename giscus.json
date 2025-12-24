@@ -1,5 +1,9 @@
 {
-  "origins": ["https://michaeluloth.com", "https://michaeluloth.netlify.app"],
+  "origins": [
+    "https://michaeluloth.com",
+    "https://michaeluloth.netlify.app",
+    "https://michaeluloth.pages.dev"
+  ],
   "originsRegex": [
     "http://localhost:[0-9]+",
     "https://.*\\.michaeluloth\\.pages\\.dev"
